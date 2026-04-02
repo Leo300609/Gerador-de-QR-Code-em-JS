@@ -24,3 +24,4 @@ Este projeto é uma aplicação interativa que transforma qualquer texto ou URL 
 
 ---
 Projeto desenvolvido para praticar consumo de APIs e manipulação de classes CSS via JavaScript no curso de ADS. 💻🔥
+Com base no curso de Front-End completo do Matheus Battisti.
